@@ -1,1 +1,2 @@
 # vscode-in-pyhton                                                                                                                                                                                                                                                                                                                                                                                                                               
+use PYSPRICT TO MAKE A WEBSITE OUT OF OUT IT!
